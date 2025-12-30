@@ -142,9 +142,13 @@ You are free to use, modify, and distribute it, with attribution.
 
 ## Contact
 
-If you’re working on an EV project and want to reach out thoughtfully — whether to share feedback, ask a scoped question, or explore collaboration — you can do so via [this form](https://schuy.notion.site/25bf9ee9d5be802ab29deb516633e158?pvs=105) which is hosted on my website: [i, Schuyler](https://tinyurl.com/i-schuyler) - which you can visit to learn more about my work and approach to life.
+If you’re working on an EV project and want to reach out thoughtfully — whether to share feedback, ask a scoped question, or explore collaboration — you’re welcome to do so via this form:
 
-Please note that responses are not guaranteed. This project is shared freely, and contact is by mutual consent and capacity.
+[Send a message](https://schuy.notion.site/25bf9ee9d5be802ab29deb516633e158?pvs=105)
+
+This form is hosted on my website, [i, Schuyler](https://tinyurl.com/i-schuyler), where you can also learn more about my work and broader approach.
+
+Please note that responses are not guaranteed. This project is shared freely, and contact happens by mutual consent and available capacity.
 
 ---
 
@@ -154,9 +158,9 @@ Unified Tester is shared freely.
 
 If this project has been useful to you and you’d like to support its continued development and stewardship, you’re welcome to do so here:
 
-[Send me Currency](https://schuy.notion.site/Currency-I-Accept-671c5e0ceae34ff4b047c88f6e82e72d?source=copy_link)
+[Ways to support](https://schuy.notion.site/Currency-I-Accept-671c5e0ceae34ff4b047c88f6e82e72d?source=copy_link)
 
-Support is optional and appreciated, never expected.
+Support is optional and appreciated — never expected.
 
 ---
 
