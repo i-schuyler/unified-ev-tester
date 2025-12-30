@@ -153,3 +153,5 @@ No guarantees of support are implied — this project is shared in the spirit of
 Unified Tester exists because many EV projects fail or stall not from lack of intelligence, but from lack of safe, incremental validation.
 
 If this tool helps you slow down, see clearly, and build with confidence, then it has done its job.
+
+**Built with the belief that clarity is a safety feature.**
