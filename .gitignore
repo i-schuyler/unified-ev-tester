@@ -1,0 +1,26 @@
+# PlatformIO build artifacts
+.pio/
+
+# VS Code / PlatformIO IDE noise
+.vscode/
+*.code-workspace
+.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/ipch
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs / captures
+*.log
+*.csv
+*.asc
+*.blf
+*.txt
+
+# If binaries
+*.bin
+*.elf
+*.map
