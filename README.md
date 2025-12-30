@@ -9,6 +9,14 @@ It was built to answer a simple but often unmet need in DIY and conversion proje
 
 Unified Tester prioritizes clarity, safety, and real-world behavior over abstraction or automation.
 
+### At a Glance
+
+- **Audience:** DIY EV builders and conversion projects
+- **Purpose:** Subsystem validation and safe incremental testing
+- **Interface:** Serial-based manual command menu
+- **Hardware:** Real CAN devices and EV subsystems
+- **Not:** A driving controller or production system
+
 ---
 
 ## What This Is
@@ -16,7 +24,7 @@ Unified Tester prioritizes clarity, safety, and real-world behavior over abstrac
 Unified Tester is:
 
 - A **manual command/control environment** for EV subsystems
-- Designed for **bench testing, staged integration, and live debuggging**
+- Designed for **bench testing, staged integration, and live debugging**
 - Intended to be used with **real hardware** (CAN devices, pumps, chargers, etc.)
 - Modular and extensible, with each subsystem tested independently
 - Human-readable and serial-driven by design
@@ -76,7 +84,7 @@ The menu:
 - Is intended to be truthful and exhaustive
 
 For a full list of commands and behaviors, see:
-docs/command_reference.md
+[Command Reference](docs/command_reference.md)
 
 ---
 
@@ -96,7 +104,7 @@ This project is provided as a testing and exploration tool.
 It is not intended for use in an active driving system.
 
 See:
-docs/safety.md
+[Safety Notes](docs/safety.md)
 
 ---
 
@@ -108,7 +116,7 @@ Unified Tester is typically used with:
 - Bench or staged vehicle environments
 
 Hardware details and assumptions are documented here:
-docs/hardware.md
+[Hardware Assumptions](docs/hardware.md)
 
 ---
 
@@ -125,10 +133,10 @@ Stability is prioritized over rapid feature growth.
 Contributions are welcome when they align with the project’s goals and philosophy.
 
 - Bug reports are appreciated
-- Pull requests should be focused and well-scoped
+- Pull requests should be focused, minimal, and well-scoped
 - Feature requests may be considered, but are not guaranteed
 
-Please keep in mind that this project values **clarity and restraint** over expansion.
+This project prioritizes **clarity, safety, and restraint** over breadth or rapid expansion.
 
 ---
 
