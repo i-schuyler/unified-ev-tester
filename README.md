@@ -142,9 +142,21 @@ You are free to use, modify, and distribute it, with attribution.
 
 ## Contact
 
-If you are working on a complex or safety-critical EV project and want a second set of eyes, you can reach me via GitHub.
+If you’re working on an EV project and want to reach out thoughtfully — whether to share feedback, ask a scoped question, or explore collaboration — you can do so via [this form](https://schuy.notion.site/25bf9ee9d5be802ab29deb516633e158?pvs=105) which is hosted on my website: [i, Schuyler](https://tinyurl.com/i-schuyler) - which you can visit to learn more about my work and approach to life.
 
-No guarantees of support are implied — this project is shared in the spirit of usefulness and care.
+Please note that responses are not guaranteed. This project is shared freely, and contact is by mutual consent and capacity.
+
+---
+
+## Supporting This Work
+
+Unified Tester is shared freely.
+
+If this project has been useful to you and you’d like to support its continued development and stewardship, you’re welcome to do so here:
+
+[Send me Currency](https://schuy.notion.site/Currency-I-Accept-671c5e0ceae34ff4b047c88f6e82e72d?source=copy_link)
+
+Support is optional and appreciated, never expected.
 
 ---
 
